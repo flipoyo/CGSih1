@@ -1,0 +1,4 @@
+[submodule "CGSih2"]
+	path = CGSih2
+	url = git@github.com:flipoyo/CGSih2.git
+	branch = main
